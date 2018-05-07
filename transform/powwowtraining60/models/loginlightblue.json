@@ -24,6 +24,12 @@
       "update": {
         "type": "none"
       }
+    },
+    "isLogin": {
+      "type": "identifier",
+      "control": "exists",
+      "selector": "input[id='btnsubmit']",
+      "selectContains": "Login"
     }
   },
   "id": "loginlightblue",
