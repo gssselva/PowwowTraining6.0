@@ -33,6 +33,9 @@
       "type": "identifier",
       "control": "exists",
       "selector": "img[src='images/mainposition.gif']"
+    },
+    "isAppSelected": {
+      "type": "identifier"
     }
   },
   "id": "homeiconcolorblocks",
