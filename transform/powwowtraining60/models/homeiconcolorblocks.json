@@ -51,9 +51,10 @@
   "connect": [
     {
       "match": [
-        "isHome"
+        "isHome",
+        "isAppSelected"
       ],
-      "event": "homeiconcolorblocks"
+      "event": "Personal Information"
     }
   ]
 }
