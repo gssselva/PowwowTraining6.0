@@ -1,6 +1,13 @@
 {
   "id": "__BASE__",
   "name": "PowwowTraining60",
-  "screens": [],
-  "startScreen": null
+  "screens": [
+    {
+      "id": "loginlightblue",
+      "name": "Login-LightBlue",
+      "sourceScreenId": "Login_LoginLightBlue",
+      "sourceAppId": "StrawberryTemplates"
+    }
+  ],
+  "startScreen": "loginlightblue"
 }
