@@ -37,7 +37,8 @@
     "isAppSelected": {
       "type": "identifier",
       "control": "exists",
-      "selector": "div.nodeon"
+      "selector": "div.nodeon",
+      "selectContains": "Application"
     }
   },
   "id": "homeiconcolorblocks",
