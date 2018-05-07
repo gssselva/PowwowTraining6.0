@@ -55,6 +55,13 @@
         "isAppSelected"
       ],
       "event": "Personal Information"
+    },
+    {
+      "match": [
+        "isHome",
+        "isPersonalInfoSelected"
+      ],
+      "event": "homeiconcolorblocks"
     }
   ]
 }
