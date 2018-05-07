@@ -15,12 +15,6 @@
       "sourceAppId": "default"
     },
     {
-      "id": "loginpage",
-      "name": "loginpage",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
-    },
-    {
       "id": "homeiconcolorblocks",
       "name": "HomeIconColorBlocks",
       "sourceScreenId": "Home_homeiconcolorblocks",

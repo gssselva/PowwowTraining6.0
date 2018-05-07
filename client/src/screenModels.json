@@ -37,13 +37,6 @@
     "id": "loginlightblue",
     "sourcePath": "loginlightblue"
   },
-  "loginpage": {
-    "type": "object",
-    "comment": "loginpage",
-    "properties": {},
-    "sourcePath": "loginpage",
-    "id": "loginpage"
-  },
   "homeiconcolorblocks": {
     "type": "object",
     "comment": "Blank",
