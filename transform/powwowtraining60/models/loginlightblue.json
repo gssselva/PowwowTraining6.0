@@ -32,5 +32,12 @@
     }
   },
   "id": "loginlightblue",
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isLogin"
+      ],
+      "event": "loginlightblue"
+    }
+  ]
 }
