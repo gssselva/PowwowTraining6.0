@@ -39,6 +39,11 @@
       "control": "exists",
       "selector": "div.nodeon",
       "selectContains": "Application"
+    },
+    "isPersonalInfoSelected": {
+      "type": "identifier",
+      "selector": "div.nodeon",
+      "selectContains": "Personal Information"
     }
   },
   "id": "homeiconcolorblocks",
