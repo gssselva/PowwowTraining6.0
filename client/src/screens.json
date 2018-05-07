@@ -1,5 +1,13 @@
 {
   "id": "__BASE__",
   "name": "PowwowTraining60",
-  "screens": []
+  "screens": [
+    {
+      "id": "newhome",
+      "name": "newhome",
+      "sourceScreenId": "blank",
+      "sourceAppId": "default"
+    }
+  ],
+  "startScreen": "newhome"
 }
