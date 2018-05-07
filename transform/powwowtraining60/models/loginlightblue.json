@@ -28,8 +28,7 @@
     "isLogin": {
       "type": "identifier",
       "control": "exists",
-      "selector": "input[id='btnsubmit']",
-      "selectContains": "Login"
+      "selector": "input[id='btnsubmit']"
     }
   },
   "id": "loginlightblue",
