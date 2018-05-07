@@ -25,7 +25,7 @@
     },
     "Personal Information": {
       "type": "action",
-      "control": "property.innerText",
+      "control": "action",
       "selector": "div.nodeon",
       "selectContains": "Personal Information"
     },
