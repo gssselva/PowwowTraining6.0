@@ -1,3 +1,3 @@
 exports.start = async (session, models, vars) => {
-    await session.screen('newhome');
+    await session.transform.powwowtraining60.start();
 };

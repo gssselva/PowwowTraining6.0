@@ -1,8 +1,4 @@
-// Load the SmartUX session runtime.
-let session = require('smartux-connect');
-
-// API Connectors
-
-// Web Connectors
-
+const session = require('smartux-connect');
+session.transform.powwowtraining60 = session.loadTransform('powwowtraining60');
+require('./client');
 session.start();
