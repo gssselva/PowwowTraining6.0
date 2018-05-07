@@ -28,13 +28,20 @@
       "control": "property.innerText",
       "selector": "span[class='c']",
       "selectContains": "Personal Information"
+    },
+    "isHome": {
+      "type": "identifier",
+      "control": "exists",
+      "selector": "img[src='images/mainposition.gif']"
     }
   },
   "id": "homeiconcolorblocks",
   "connect": [
     {
-      "match": [],
-      "event": "Personal,Information"
+      "match": [
+        "isHome"
+      ],
+      "event": "homeiconcolorblocks"
     }
   ]
 }
