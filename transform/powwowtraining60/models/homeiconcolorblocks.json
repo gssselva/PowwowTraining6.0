@@ -43,7 +43,8 @@
     "isPersonalInfoSelected": {
       "type": "identifier",
       "selector": "div.nodeon",
-      "selectContains": "Personal Information"
+      "selectContains": "Personal Information",
+      "control": "exists"
     }
   },
   "id": "homeiconcolorblocks",
