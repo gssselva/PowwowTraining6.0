@@ -2,15 +2,6 @@
   "type": "object",
   "comment": "Blank",
   "properties": {
-    "help": {
-      "type": "action"
-    },
-    "alerts": {
-      "type": "action"
-    },
-    "newIssue": {
-      "type": "action"
-    },
     "monitor": {
       "type": "action"
     },
@@ -19,8 +10,31 @@
     },
     "assigned": {
       "type": "action"
+    },
+    "Application": {
+      "type": "action",
+      "control": "property.innerText",
+      "selector": "span[class='c']",
+      "selectContains": "Application"
+    },
+    "Approval": {
+      "type": "action",
+      "control": "property.innerText",
+      "selector": "span[class='c']",
+      "selectContains": "Approval"
+    },
+    "Personal Information": {
+      "type": "action",
+      "control": "property.innerText",
+      "selector": "span[class='c']",
+      "selectContains": "Personal Information"
     }
   },
   "id": "homeiconcolorblocks",
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "event": "Personal,Information"
+    }
+  ]
 }
