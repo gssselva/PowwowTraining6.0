@@ -26,7 +26,7 @@
     "Personal Information": {
       "type": "action",
       "control": "property.innerText",
-      "selector": "span[class='c']",
+      "selector": "div.nodeon",
       "selectContains": "Personal Information"
     },
     "isHome": {
