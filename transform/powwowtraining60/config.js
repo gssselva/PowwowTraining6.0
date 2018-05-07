@@ -1,6 +1,6 @@
 'use strict';
 module.exports = {
-    startURL: 'https://goeasy.flex.com/',
+    startURL: 'https://chinaltp.hkd.flextronics.com/powerhr2000.net/loginx.aspx',
     eventDetection: {
         // The minimum interval for checking events.
         debounceTime: 500,

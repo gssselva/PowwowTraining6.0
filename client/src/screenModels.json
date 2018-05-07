@@ -34,6 +34,14 @@
         }
       }
     },
-    "id": "loginlightblue"
+    "id": "loginlightblue",
+    "sourcePath": "loginlightblue"
+  },
+  "loginpage": {
+    "type": "object",
+    "comment": "loginpage",
+    "properties": {},
+    "sourcePath": "loginpage",
+    "id": "loginpage"
   }
 }

@@ -7,6 +7,18 @@
       "name": "Login-LightBlue",
       "sourceScreenId": "Login_LoginLightBlue",
       "sourceAppId": "StrawberryTemplates"
+    },
+    {
+      "id": "loginpage",
+      "name": "loginpage",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
+    },
+    {
+      "id": "loginpage",
+      "name": "loginpage",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
     }
   ],
   "startScreen": "loginlightblue"
